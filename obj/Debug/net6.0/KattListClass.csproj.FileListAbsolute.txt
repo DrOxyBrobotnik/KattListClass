@@ -1,0 +1,15 @@
+C:\Users\redigering\source\repos\KattListClass\bin\Debug\net6.0\KattListClass.exe
+C:\Users\redigering\source\repos\KattListClass\bin\Debug\net6.0\KattListClass.deps.json
+C:\Users\redigering\source\repos\KattListClass\bin\Debug\net6.0\KattListClass.runtimeconfig.json
+C:\Users\redigering\source\repos\KattListClass\bin\Debug\net6.0\KattListClass.dll
+C:\Users\redigering\source\repos\KattListClass\bin\Debug\net6.0\KattListClass.pdb
+C:\Users\redigering\source\repos\KattListClass\obj\Debug\net6.0\KattListClass.csproj.AssemblyReference.cache
+C:\Users\redigering\source\repos\KattListClass\obj\Debug\net6.0\KattListClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redigering\source\repos\KattListClass\obj\Debug\net6.0\KattListClass.AssemblyInfoInputs.cache
+C:\Users\redigering\source\repos\KattListClass\obj\Debug\net6.0\KattListClass.AssemblyInfo.cs
+C:\Users\redigering\source\repos\KattListClass\obj\Debug\net6.0\KattListClass.csproj.CoreCompileInputs.cache
+C:\Users\redigering\source\repos\KattListClass\obj\Debug\net6.0\KattListClass.dll
+C:\Users\redigering\source\repos\KattListClass\obj\Debug\net6.0\refint\KattListClass.dll
+C:\Users\redigering\source\repos\KattListClass\obj\Debug\net6.0\KattListClass.pdb
+C:\Users\redigering\source\repos\KattListClass\obj\Debug\net6.0\KattListClass.genruntimeconfig.cache
+C:\Users\redigering\source\repos\KattListClass\obj\Debug\net6.0\ref\KattListClass.dll
